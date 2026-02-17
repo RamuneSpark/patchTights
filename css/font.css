@@ -1,0 +1,29 @@
+    @font-face {
+        font-family: "AkazukiPOP";
+        src: url(font/AkazukiPOP.otf);
+    }
+
+    @font-face {
+        font-family: "FGMediumHankaku";
+        src: url(font/FGMediumHankaku.ttf);
+    }
+
+    @font-face {
+        font-family: "NotoSansJP-Medium";
+        src: url(font/NotoSansJP-Medium.ttf);
+    }
+
+    @font-face {
+        font-family: "KaqookanV2";
+        src: url(font/KaqookanV2.ttf);
+    }
+
+    @font-face {
+        font-family: "smartFontUI";
+        src: url(font/03smartFontUI.otf);
+    }
+
+    @font-face {
+        font-family: "promptfont";
+        src: url(font/promptfont.otf);
+    }

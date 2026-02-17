@@ -1,0 +1,15 @@
+N4カクーカンV2 Ver.2.01
+
+SILオープンフォントライセンスに基づいています。
+(https://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web
+日本語訳：https://licenses.opensource.jp/OFL-1.1/OFL-1.1.html)
+詳細は上記ライセンスページをご確認ください。
+
+フォント名「N4-KaqookanV2」「N4カクーカンV2」
+製作者名「TokioriNanon」「時折なのん」
+
+-----------------------------------------------------------------------------------
+Copyright (ｃ)2023 NanonTokiori HPB
+
+
+

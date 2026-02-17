@@ -1,0 +1,17 @@
+ライセンス
+----------
+このフォントのライセンスは、基本的には
+IPAフォントのライセンスに準じます。
+
+IPAフォントのライセンスは、配布物に含まれる「ipaexg」フォルダの
+IPA_Font_License_Agreement_v1.0.txtをご覧ください。
+
+このフォントをIPAフォントに置き換える場合は、
+以下のWebサイトで「IPAexゴシック」を入手してください。
+http://ossipedia.ipa.go.jp/ipafont/
+
+
+クレジット
+----------
+フォント：スマートフォントUI
+フリーダウンロード：https://flopdesign.booth.pm/items/2296502

@@ -1,0 +1,107 @@
+html {
+  touch-action: none;
+  overflow: hidden;
+}
+
+body {
+  touch-action: none;
+  user-select: none;
+}
+
+.cursor {
+
+  /*cursor: url('../sys/point64.cur'), auto;*/
+  cursor: auto;
+
+}
+
+.hideCursor {
+
+  cursor: none;
+
+}
+
+#screen {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  overflow: hidden;
+  z-index: 0;
+  user-select: none;
+}
+
+#script_error {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+img {
+  /* ドラッグ禁止 */
+  user-select: none;
+  /* 選択禁止 */
+  -webkit-user-drag: none;
+  /* Webkitブラウザ（ChromeやSafari）向け */
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  /* Firefox向け */
+  -ms-user-select: none;
+  /* IE向け */
+  pointer-events: none;
+  /* 右クリックや長押し禁止 */
+}
+
+
+#error {
+  width: 100%;
+  height: 100%;
+}
+
+.errorClass {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  overflow: hidden;
+  user-select: none;
+  object-fit: contain;
+  animation: change 1s linear forwards;
+}
+
+#error0 {
+  animation-delay: 0.3s;
+}
+
+#error1 {
+  animation-delay: 0.5s;
+}
+
+#error2 {
+  animation-delay: 1.3s;
+}
+
+#error3 {
+  animation-delay: 1.55s;
+}
+
+#error4 {
+  animation-delay: 1.65s;
+}
+
+@keyframes change {
+  0% {
+    opacity: 0
+  }
+
+  0.00000001% {
+    opacity: 1
+  }
+
+  100% {
+    opacity: 1
+  }
+}
